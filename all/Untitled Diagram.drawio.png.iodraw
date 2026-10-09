@@ -131,11 +131,14 @@
             <mxPoint as="offset" />
             <mxPoint x="220" y="610" as="sourcePoint" />
             <mxPoint x="220" y="640" as="targetPoint" />
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="220" y="630" />
+              <mxPoint x="280" y="630" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="SBneYKK8jf1WpyqBi6Ms-20" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="220" y="610" width="40" height="30" as="geometry" />
+          <mxGeometry x="260" y="610" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
