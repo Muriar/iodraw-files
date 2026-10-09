@@ -150,7 +150,8 @@
         <mxCell id="SBneYKK8jf1WpyqBi6Ms-42" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="470" y="240" as="sourcePoint" />
-            <mxPoint x="510" y="330" as="targetPoint" />
+            <mxPoint x="530" y="320" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SBneYKK8jf1WpyqBi6Ms-43" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SBneYKK8jf1WpyqBi6Ms-19">
