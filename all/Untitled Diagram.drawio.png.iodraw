@@ -31,9 +31,8 @@
             <mxPoint as="offset" />
             <mxPoint x="250" y="430" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="220" y="400" />
-              <mxPoint x="250" y="400" />
-              <mxPoint x="250" y="420" />
+              <mxPoint x="220" y="410" />
+              <mxPoint x="220" y="410" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -45,7 +44,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-10" value="&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;&lt;font style=&quot;vertical-align: inherit;&quot; dir=&quot;auto&quot;&gt;suhu &amp;gt;= 38.5 &amp;amp;&amp;amp; batuk == y &amp;amp;&amp;amp; pilek == &#39;y&#39;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="170" y="290" width="100" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SBneYKK8jf1WpyqBi6Ms-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="SBneYKK8jf1WpyqBi6Ms-1">
+        <mxCell id="SBneYKK8jf1WpyqBi6Ms-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SBneYKK8jf1WpyqBi6Ms-4" target="SBneYKK8jf1WpyqBi6Ms-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="250" y="470" as="sourcePoint" />
           </mxGeometry>
@@ -65,7 +64,7 @@
         <mxCell id="SBneYKK8jf1WpyqBi6Ms-1" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="530" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SBneYKK8jf1WpyqBi6Ms-4" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="SBneYKK8jf1WpyqBi6Ms-4" value="suhu &amp;lt;&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="420" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
