@@ -104,11 +104,14 @@
         <mxCell id="SBneYKK8jf1WpyqBi6Ms-17" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="280" y="650" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SBneYKK8jf1WpyqBi6Ms-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="SBneYKK8jf1WpyqBi6Ms-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SBneYKK8jf1WpyqBi6Ms-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="270" y="580" as="sourcePoint" />
             <mxPoint x="330" y="580" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="SBneYKK8jf1WpyqBi6Ms-19" value="Pemeriksaan Lanjutan" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="320" y="650" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
