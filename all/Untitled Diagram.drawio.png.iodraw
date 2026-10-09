@@ -68,9 +68,6 @@
         <mxCell id="SBneYKK8jf1WpyqBi6Ms-10" value="Gelaja Ringan" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="430" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SBneYKK8jf1WpyqBi6Ms-14" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="280" y="540" width="40" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="SBneYKK8jf1WpyqBi6Ms-15" value="hari &amp;lt; 3" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="640" width="80" height="80" as="geometry" />
         </mxCell>
@@ -153,10 +150,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SBneYKK8jf1WpyqBi6Ms-37" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="SBneYKK8jf1WpyqBi6Ms-4">
-          <mxGeometry y="10" relative="1" as="geometry">
+          <mxGeometry x="0.35" y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
             <mxPoint x="300" y="360" as="sourcePoint" />
-            <mxPoint x="350" y="360" as="targetPoint" />
+            <mxPoint x="320" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
